@@ -48,11 +48,11 @@ You are welcome to participate in the project. If you have ideas, suggestions or
 
 | Institution       | Grant |
  |   :---:      |      :---      |
- | <img src="https://github.com/ODRE-Framework/ODRE-Framework/img/upm.png" height="80"/>  | Collaboration grant from the Education Innovation Program of the Universidad Politécnica de Madrid. |
+ | <img src="https://raw.githubusercontent.com/ODRE-Framework/ODRE-Framework/refs/heads/main/img/upm.png" height="80"/>  | Collaboration grant from the Education Innovation Program of the Universidad Politécnica de Madrid. |
 
 
 #### This project and some of its plugins have been partially funded by:
 
  | Project       | Grant |
  |   :---:      |      :---      |
- | <img src="https://github.com/ODRE-Framework/ODRE-Framework/img/auroral.png" height="80"/>   | The European project [AURORAL](https://www.auroral.eu/) from the European Union's Horizont 2020 research and innovation programme under grant agreement Nº101016854. |
+ | <img src="https://raw.githubusercontent.com/ODRE-Framework/ODRE-Framework/refs/heads/main/img/auroral.png" height="80"/>   | The European project [AURORAL](https://www.auroral.eu/) from the European Union's Horizont 2020 research and innovation programme under grant agreement Nº101016854. |
