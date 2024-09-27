@@ -15,7 +15,7 @@ In our community we believe that innovation thrives through collaboration. Our m
 
 ### Enforce implementations
 
-For enforcing ODRL policices we count with two implementations developed in [Python](https://github.com/ODRE-Framework/odre-python), distributed through 'pip', and [Java](https://github.com/ODRE-Framework/odre-java), distributed through 'maven'. Both the libraries and different examples can be found in their repositories,  which intended for researchers, developers and professionals interested in applying ODRL in their systems.
+For enforcing ODRL policices we count with two implementations developed in [Python](https://github.com/ODRE-Framework/odre-python), distributed through `pip`, and [Java](https://github.com/ODRE-Framework/odre-java), distributed through `maven`. Both the libraries and different examples can be found in their repositories,  which intended for researchers, developers and professionals interested in applying ODRL in their systems.
 
 ### Publications
 
