@@ -1,19 +1,21 @@
 
 # ODRE-Framework
 
-This project is part of the research effort conducted by the [Ontology Engineering Group (OEG)](https://oeg.fi.upm.es/) at the [Universidad Politécnica de Madrid (UPM)](https://www.upm.es/). Our main objective is to explore and develop solutions that use ODRL to run privacy policies in digital environments, achieving transparency and control over the use of personal data.
-
-The implementations in this repository are mainly developed in [Python](https://github.com/ODRE-Framework/odre-python) and [Java](https://github.com/ODRE-Framework/odre-java). Both the libraries and the examples you will find here are intended for researchers, developers and professionals interested in applying ODRL in their systems.
+This project is part of the research effort conducted by the [Ontology Engineering Group (OEG)](https://oeg.fi.upm.es/) at the [Universidad Politécnica de Madrid (UPM)](https://www.upm.es/). Our main objective is to explore and develop solutions based on the W3C standard [ODRL](https://www.w3.org/TR/odrl-model/) to define, use, and enforce privacy policies in digital environments, achieving transparency, control, and data sovereignty over data; particularly in descentralised environments like [Dataspaces](https://internationaldataspaces.org/).
 
 ### Objetives
 
- - Applied research
+ - Applied research.
  - Practical solutions. 
  - Academic and industry collaboration.
 
 ### How to contribute
 
-You are welcome to participate in the project. If you have ideas, suggestions or find bugs, feel free to create an issue or make a pull request. We want to build a community around the use of ODRL.
+In our community we believe that innovation thrives through collaboration. Our mission is to develop cutting-edge, open-source components that empower developers and researchers around the ODRL policices. Whether you’re passionate about writing code, exploring new technologies, or contributing with research, there’s a place for you here! Together, we can push boundaries, solve real-world problems, and create tools that benefit everyone. We are open to any colaboration and glad anyone to participate and join our team.
+
+### Enforce implementations
+
+For enforcing ODRL policices we count with two implementations developed in [Python](https://github.com/ODRE-Framework/odre-python), distributed through 'pip', and [Java](https://github.com/ODRE-Framework/odre-java), distributed through 'maven'. Both the libraries and different examples can be found in their repositories,  which intended for researchers, developers and professionals interested in applying ODRL in their systems.
 
 ### Publications
 
@@ -44,14 +46,7 @@ You are welcome to participate in the project. If you have ideas, suggestions or
 
 ### Acknowledgements
 
-#### Many of the didactic materials and exercices have been developed thanks to the financial support of:
-
-| Institution       | Grant |
- |   :---:      |      :---      |
- | <img src="https://raw.githubusercontent.com/ODRE-Framework/ODRE-Framework/refs/heads/main/img/upm.png" height="80"/>  | Collaboration grant from the Education Innovation Program of the Universidad Politécnica de Madrid. |
-
-
-#### This project and some of its plugins have been partially funded by:
+#### This project have been partially funded by:
 
  | Project       | Grant |
  |   :---:      |      :---      |
