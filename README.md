@@ -20,6 +20,16 @@ For enforcing ODRL policices we count with two implementations developed in [Pyt
 ### Publications
 
 ```bibtex
+@misc{cimmino2024opendigitalrightsenforcement,
+      title={Open Digital Rights Enforcement Framework (ODRE): from descriptive to enforceable policies}, 
+      author={Andrea Cimmino and Juan Cano-Benito and Raúl García-Castro},
+      year={2024},
+      eprint={2409.17602},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2409.17602}, 
+}
+
 @inproceedings{cano2024towards,
   title={Towards time privacy policies in ODRL},
   author={Cano-Benito, Juan and Cimmino, Andrea and Garc{\'\i}a-Castro, Ra{\'u}l},
