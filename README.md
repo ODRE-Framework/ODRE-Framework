@@ -3,11 +3,11 @@
 
 This project is part of the research effort conducted by the [Ontology Engineering Group (OEG)](https://oeg.fi.upm.es/) at the [Universidad Politécnica de Madrid (UPM)](https://www.upm.es/). Our main objective is to explore and develop solutions based on the W3C standard [ODRL](https://www.w3.org/TR/odrl-model/) to define, use, and enforce privacy policies in digital environments, achieving transparency, control, and data sovereignty; particularly in descentralised environments like [Dataspaces](https://internationaldataspaces.org/).
 
-### Objetives
+### Objectives
 
- - Applied research.
- - Practical solutions. 
- - Academic and industry collaboration.
+ - Applied research
+ - Practical solutions
+ - Academic and industry collaboration
 
 ### How to contribute
 
