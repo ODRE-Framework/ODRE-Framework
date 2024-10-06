@@ -1,21 +1,7 @@
 
 # ODRE-Framework
 
-This project is part of the research effort conducted by the [Ontology Engineering Group (OEG)](https://oeg.fi.upm.es/) at the [Universidad Politécnica de Madrid (UPM)](https://www.upm.es/). Our main objective is to explore and develop solutions based on the W3C standard [ODRL](https://www.w3.org/TR/odrl-model/) to define, use, and enforce privacy policies in digital environments, achieving transparency, control, and data sovereignty; particularly in descentralised environments like [Dataspaces](https://internationaldataspaces.org/).
-
-### Objectives
-
- - Applied research
- - Practical solutions
- - Academic and industry collaboration
-
-### How to contribute
-
-In our community we believe that innovation thrives through collaboration. Our mission is to develop cutting-edge, open-source components that empower developers and researchers around the ODRL policices. Whether you’re passionate about writing code, exploring new technologies, or contributing with research, there’s a place for you here! Together, we can push boundaries, solve real-world problems, and create tools that benefit everyone. We are open to any colaboration and glad anyone to participate and join our team.
-
-### Enforce implementations
-
-For enforcing ODRL policices we count with two implementations developed in [Python](https://github.com/ODRE-Framework/odre-python), distributed through `pip`, and [Java](https://github.com/ODRE-Framework/odre-java), distributed through `maven`. Both the libraries and different examples can be found in their repositories,  which intended for researchers, developers and professionals interested in applying ODRL in their systems.
+This is the branch for the ODRE project website.
 
 ### Publications
 
