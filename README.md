@@ -61,3 +61,4 @@ For enforcing ODRL policices we count with two implementations developed in [Pyt
  | Project       | Grant |
  |   :---:      |      :---      |
  | <img src="https://raw.githubusercontent.com/ODRE-Framework/ODRE-Framework/refs/heads/main/img/auroral.png" height="80"/>   | The European project [AURORAL](https://www.auroral.eu/) from the European Union's Horizont 2020 research and innovation programme under grant agreement Nº101016854. |
+ | <img src="https://github.com/user-attachments/assets/152dc6f1-e418-41bc-9c50-88cc88b33525" height="80"/>| The Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement with the Universidad Politécnica de Madrid in the Excellence Programme for University Teaching Staff, in the context of the V PRICIT (Regional Programme of Research and Technological Innovation). |
